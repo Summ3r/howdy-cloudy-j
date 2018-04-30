@@ -11,6 +11,7 @@ public class HowdyCloudyApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("this is bad");
 	}
 
 }
