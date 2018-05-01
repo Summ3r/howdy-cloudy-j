@@ -10,8 +10,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class HowdyCloudyApplicationTests {
 
 	@Test
-	public void contextLoads() {
-		System.out.println("this is bad");
-	}
+	public void contextLoads() {}
 
 }
